@@ -1,6 +1,6 @@
 # Sobre mim
 
-*Sou o Felipe lupepsa de camargo, e estou cursando o 3-Ano tec.*
+
 
 ## Expectativas do curso
 *Espero programar profissionalmente,desejo aprender essas linguagens:*
